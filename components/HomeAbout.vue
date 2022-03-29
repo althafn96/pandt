@@ -28,7 +28,7 @@
 													src="/img/icons/icon-1.png" alt />
 												<strong class="text-color-primary custom-primary-font" data-to="32"
 													data-append="+">0</strong>
-												<label>Years of Service</label>
+												<label>Experience</label>
 											</div>
 										</div>
 									</div>
@@ -39,7 +39,7 @@
 													src="/img/icons/icon-2.png" alt />
 												<strong class="text-color-primary custom-primary-font" data-to="20"
 													data-append="+">0</strong>
-												<label>Global Brands</label>
+												<label>Brands</label>
 											</div>
 										</div>
 									</div>

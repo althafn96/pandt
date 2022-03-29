@@ -27,13 +27,13 @@
                                                 <router-link to="/" exact  class="nav-link" >Home</router-link>
                                             </li>
                                             <li class="nav-item">
-                                                <router-link to="/products-and-services"  class="nav-link" > Products & Services</router-link>
+                                                <router-link to="/products-and-services"  class="nav-link" >Products & Services</router-link>
                                             </li>
                                             <li class="nav-item">
-                                                <router-link to="/our-projects" exact class="nav-link"> Our Projects</router-link>
+                                                <router-link to="/projects" exact class="nav-link">Projects</router-link>
                                             </li>
                                             <li class="nav-item">
-                                                <a href="javascript:;" exact class="nav-link"> News</a>
+                                                <a href="javascript:;" exact class="nav-link">News</a>
                                             </li>
                                             <li class="nav-item">
                                                 <router-link to="/about-us"  class="nav-link">About Us</router-link>

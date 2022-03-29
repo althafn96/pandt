@@ -6,47 +6,47 @@ export const projectsData = [
         images: [
             {
                 id: 1,
-                image: '/img/projects/American Heart of Poland-Bielsko Biala, Poland/ALVO Medical_PAKS-Bielsko-Biala (1).jpg'
+                image: '/img/projects/American Heart of Poland-Bielsko Biala, Poland/ALVO Medical_PAKS-Bielsko-Biala (1).JPG'
             },
             {
                 id: 2,
-                image: '/img/projects/American Heart of Poland-Bielsko Biala, Poland/ALVO Medical_PAKS-Bielsko-Biala (2).jpg'
+                image: '/img/projects/American Heart of Poland-Bielsko Biala, Poland/ALVO Medical_PAKS-Bielsko-Biala (2).JPG'
             },
             {
                 id: 3,
-                image: '/img/projects/American Heart of Poland-Bielsko Biala, Poland/ALVO Medical_PAKS-Bielsko-Biala (3).jpg'
+                image: '/img/projects/American Heart of Poland-Bielsko Biala, Poland/ALVO Medical_PAKS-Bielsko-Biala (3).JPG'
             },
             {
                 id: 4,
-                image: '/img/projects/American Heart of Poland-Bielsko Biala, Poland/ALVO Medical_PAKS-Bielsko-Biala (4).jpg'
+                image: '/img/projects/American Heart of Poland-Bielsko Biala, Poland/ALVO Medical_PAKS-Bielsko-Biala (4).JPG'
             },
             {
                 id: 5,
-                image: '/img/projects/American Heart of Poland-Bielsko Biala, Poland/ALVO Medical_PAKS-Bielsko-Biala (5).jpg'
+                image: '/img/projects/American Heart of Poland-Bielsko Biala, Poland/ALVO Medical_PAKS-Bielsko-Biala (5).JPG'
             },
             {
                 id: 6,
-                image: '/img/projects/American Heart of Poland-Bielsko Biala, Poland/ALVO Medical_PAKS-Bielsko-Biala (6).jpg'
+                image: '/img/projects/American Heart of Poland-Bielsko Biala, Poland/ALVO Medical_PAKS-Bielsko-Biala (6).JPG'
             },
             {
                 id: 7,
-                image: '/img/projects/American Heart of Poland-Bielsko Biala, Poland/ALVO Medical_PAKS-Bielsko-Biala (7).jpg'
+                image: '/img/projects/American Heart of Poland-Bielsko Biala, Poland/ALVO Medical_PAKS-Bielsko-Biala (7).JPG'
             },
             {
                 id: 8,
-                image: '/img/projects/American Heart of Poland-Bielsko Biala, Poland/ALVO Medical_PAKS-Bielsko-Biala (8).jpg'
+                image: '/img/projects/American Heart of Poland-Bielsko Biala, Poland/ALVO Medical_PAKS-Bielsko-Biala (8).JPG'
             },
             {
                 id: 9,
-                image: '/img/projects/American Heart of Poland-Bielsko Biala, Poland/ALVO Medical_PAKS-Bielsko-Biala (9).jpg'
+                image: '/img/projects/American Heart of Poland-Bielsko Biala, Poland/ALVO Medical_PAKS-Bielsko-Biala (9).JPG'
             },
             {
                 id: 10,
-                image: '/img/projects/American Heart of Poland-Bielsko Biala, Poland/ALVO Medical_PAKS-Bielsko-Biala (10).jpg'
+                image: '/img/projects/American Heart of Poland-Bielsko Biala, Poland/ALVO Medical_PAKS-Bielsko-Biala (10).JPG'
             },
             {
                 id: 11,
-                image: '/img/projects/American Heart of Poland-Bielsko Biala, Poland/ALVO Medical_PAKS-Bielsko-Biala (11).jpg'
+                image: '/img/projects/American Heart of Poland-Bielsko Biala, Poland/ALVO Medical_PAKS-Bielsko-Biala (11).JPG'
             }
         ]
     },
@@ -77,31 +77,31 @@ export const projectsData = [
             },
             {
                 id: 6,
-                image: '/img/projects/CADOLTO showroom-Cadolzburg, Germany/ALVO Medical_Hybrid OR-Cadolzburg (11).jpg'
+                image: '/img/projects/CADOLTO showroom-Cadolzburg, Germany/ALVO Medical_Hybrid OR-Cadolzburg (11).JPG'
             },
             {
                 id: 7,
-                image: '/img/projects/CADOLTO showroom-Cadolzburg, Germany/ALVO Medical_Hybrid OR-Cadolzburg (12).jpg'
+                image: '/img/projects/CADOLTO showroom-Cadolzburg, Germany/ALVO Medical_Hybrid OR-Cadolzburg (12).JPG'
             },
             {
                 id: 8,
-                image: '/img/projects/CADOLTO showroom-Cadolzburg, Germany/ALVO Medical_Hybrid OR-Cadolzburg (13).jpg'
+                image: '/img/projects/CADOLTO showroom-Cadolzburg, Germany/ALVO Medical_Hybrid OR-Cadolzburg (13).JPG'
             },
             {
                 id: 9,
-                image: '/img/projects/CADOLTO showroom-Cadolzburg, Germany/ALVO Medical_Hybrid OR-Cadolzburg (14).jpg'
+                image: '/img/projects/CADOLTO showroom-Cadolzburg, Germany/ALVO Medical_Hybrid OR-Cadolzburg (14).JPG'
             },
             {
                 id: 10,
-                image: '/img/projects/CADOLTO showroom-Cadolzburg, Germany/ALVO Medical_Hybrid OR-Cadolzburg (15).jpg'
+                image: '/img/projects/CADOLTO showroom-Cadolzburg, Germany/ALVO Medical_Hybrid OR-Cadolzburg (15).JPG'
             },
             {
                 id: 11,
-                image: '/img/projects/CADOLTO showroom-Cadolzburg, Germany/ALVO Medical_Hybrid OR-Cadolzburg (16).jpg'
+                image: '/img/projects/CADOLTO showroom-Cadolzburg, Germany/ALVO Medical_Hybrid OR-Cadolzburg (16).JPG'
             },
             {
                 id: 12,
-                image: '/img/projects/CADOLTO showroom-Cadolzburg, Germany/ALVO Medical_Hybrid OR-Cadolzburg (17).jpg'
+                image: '/img/projects/CADOLTO showroom-Cadolzburg, Germany/ALVO Medical_Hybrid OR-Cadolzburg (17).JPG'
             }
         ]
     },
@@ -112,23 +112,23 @@ export const projectsData = [
         images: [
             {
                 id: 1,
-                image: '/img/projects/Draeger Design Center-Mumbai, India/ALVO Medical_Draeger Design Center at Mumbai (2).jpg'
+                image: '/img/projects/Draeger Design Center-Mumbai, India/ALVO Medical_Draeger Design Center at Mumbai (2).JPG'
             },
             {
                 id: 2,
-                image: '/img/projects/Draeger Design Center-Mumbai, India/ALVO Medical_Draeger Design Center at Mumbai (3).jpg'
+                image: '/img/projects/Draeger Design Center-Mumbai, India/ALVO Medical_Draeger Design Center at Mumbai (3).JPG'
             },
             {
                 id: 3,
-                image: '/img/projects/Draeger Design Center-Mumbai, India/ALVO Medical_Draeger Design Center at Mumbai (4).jpg'
+                image: '/img/projects/Draeger Design Center-Mumbai, India/ALVO Medical_Draeger Design Center at Mumbai (4).JPG'
             },
             {
                 id: 4,
-                image: '/img/projects/Draeger Design Center-Mumbai, India/ALVO Medical_Draeger Design Center at Mumbai (5).jpg'
+                image: '/img/projects/Draeger Design Center-Mumbai, India/ALVO Medical_Draeger Design Center at Mumbai (5).JPG'
             },
             {
                 id: 5,
-                image: '/img/projects/Draeger Design Center-Mumbai, India/ALVO Medical_Draeger Design Center at Mumbai (6).jpg'
+                image: '/img/projects/Draeger Design Center-Mumbai, India/ALVO Medical_Draeger Design Center at Mumbai (6).JPG'
             }
         ]
     },
@@ -139,47 +139,47 @@ export const projectsData = [
         images: [
             {
                 id: 1,
-                image: '/img/projects/King Fahad Medical City-Riyadh, Saudi Arabia/ALVO Medical_Hybrid OR at King Fahad Medical City (1).jpg'
+                image: '/img/projects/King Fahad Medical City-Riyadh, Saudi Arabia/ALVO Medical_Hybrid OR at King Fahad Medical City (1).JPG'
             },
             {
                 id: 2,
-                image: '/img/projects/King Fahad Medical City-Riyadh, Saudi Arabia/ALVO Medical_Hybrid OR at King Fahad Medical City (2).jpg'
+                image: '/img/projects/King Fahad Medical City-Riyadh, Saudi Arabia/ALVO Medical_Hybrid OR at King Fahad Medical City (2).JPG'
             },
             {
                 id: 3,
-                image: '/img/projects/King Fahad Medical City-Riyadh, Saudi Arabia/ALVO Medical_Hybrid OR at King Fahad Medical City (3).jpg'
+                image: '/img/projects/King Fahad Medical City-Riyadh, Saudi Arabia/ALVO Medical_Hybrid OR at King Fahad Medical City (3).JPG'
             },
             {
                 id: 4,
-                image: '/img/projects/King Fahad Medical City-Riyadh, Saudi Arabia/ALVO Medical_Hybrid OR at King Fahad Medical City (4).jpg'
+                image: '/img/projects/King Fahad Medical City-Riyadh, Saudi Arabia/ALVO Medical_Hybrid OR at King Fahad Medical City (4).JPG'
             },
             {
                 id: 5,
-                image: '/img/projects/King Fahad Medical City-Riyadh, Saudi Arabia/ALVO Medical_Hybrid OR at King Fahad Medical City (5).jpg'
+                image: '/img/projects/King Fahad Medical City-Riyadh, Saudi Arabia/ALVO Medical_Hybrid OR at King Fahad Medical City (5).JPG'
             },
             {
                 id: 6,
-                image: '/img/projects/King Fahad Medical City-Riyadh, Saudi Arabia/ALVO Medical_Hybrid OR at King Fahad Medical City (6).jpg'
+                image: '/img/projects/King Fahad Medical City-Riyadh, Saudi Arabia/ALVO Medical_Hybrid OR at King Fahad Medical City (6).JPG'
             },
             {
                 id: 7,
-                image: '/img/projects/King Fahad Medical City-Riyadh, Saudi Arabia/ALVO Medical_Hybrid OR at King Fahad Medical City (7).jpg'
+                image: '/img/projects/King Fahad Medical City-Riyadh, Saudi Arabia/ALVO Medical_Hybrid OR at King Fahad Medical City (7).JPG'
             },
             {
                 id: 8,
-                image: '/img/projects/King Fahad Medical City-Riyadh, Saudi Arabia/ALVO Medical_Hybrid OR at King Fahad Medical City (8).jpg'
+                image: '/img/projects/King Fahad Medical City-Riyadh, Saudi Arabia/ALVO Medical_Hybrid OR at King Fahad Medical City (8).JPG'
             },
             {
                 id: 9,
-                image: '/img/projects/King Fahad Medical City-Riyadh, Saudi Arabia/ALVO Medical_Hybrid OR at King Fahad Medical City (9).jpg'
+                image: '/img/projects/King Fahad Medical City-Riyadh, Saudi Arabia/ALVO Medical_Hybrid OR at King Fahad Medical City (9).JPG'
             },
             {
                 id: 10,
-                image: '/img/projects/King Fahad Medical City-Riyadh, Saudi Arabia/ALVO Medical_Hybrid OR at King Fahad Medical City (10).jpg'
+                image: '/img/projects/King Fahad Medical City-Riyadh, Saudi Arabia/ALVO Medical_Hybrid OR at King Fahad Medical City (10).JPG'
             },
             {
                 id: 11,
-                image: '/img/projects/King Fahad Medical City-Riyadh, Saudi Arabia/ALVO Medical_Hybrid OR at King Fahad Medical City (11).jpg'
+                image: '/img/projects/King Fahad Medical City-Riyadh, Saudi Arabia/ALVO Medical_Hybrid OR at King Fahad Medical City (11).JPG'
             }
         ]
     },
@@ -194,15 +194,15 @@ export const projectsData = [
             },
             {
                 id: 2,
-                image: '/img/projects/Military Hospital-Bydgoszcz, Poland/ALVO Medical_Hybrid OR at Bydgoszcz (2).jpg'
+                image: '/img/projects/Military Hospital-Bydgoszcz, Poland/ALVO Medical_Hybrid OR at Bydgoszcz (2).JPG'
             },
             {
                 id: 3,
-                image: '/img/projects/Military Hospital-Bydgoszcz, Poland/ALVO Medical_Hybrid OR at Bydgoszcz (3).jpg'
+                image: '/img/projects/Military Hospital-Bydgoszcz, Poland/ALVO Medical_Hybrid OR at Bydgoszcz (3).JPG'
             },
             {
                 id: 4,
-                image: '/img/projects/Military Hospital-Bydgoszcz, Poland/ALVO Medical_Hybrid OR at Bydgoszcz (5).jpg'
+                image: '/img/projects/Military Hospital-Bydgoszcz, Poland/ALVO Medical_Hybrid OR at Bydgoszcz (5).JPG'
             }
         ]
     },

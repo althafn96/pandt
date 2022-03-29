@@ -10,7 +10,7 @@
         <div class="owl-carousel categories-carousel show-nav-title custom-both-sides-shadow custom-dots-position-2 custom-dots-style-1 custom-xs-arrows-style-2 mb-0"
             data-plugin-options="{'items': 5, 'loop': false, 'dots': true, 'nav': false}">
             <div v-for="category in categories" :key="category.id">
-                <router-link :to="`/products-and-services#${category.slug}`"  class="text-decoration-none">
+                <router-link :to="`/products-and-services/${category.slug}`"  class="text-decoration-none">
                     <span class="thumb-info custom-thumb-info-style-1 thumb-info-hide-wrapper-bg">
                         <span class="thumb-info-wrapper m-0">
                             <img :src="category.thumb" class="img-fluid" alt="">
